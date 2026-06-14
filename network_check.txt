@@ -1,0 +1,18 @@
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_seq=1 ttl=64 time=2.89 ms
+64 bytes from 192.168.0.1: icmp_seq=2 ttl=64 time=3.84 ms
+64 bytes from 192.168.0.1: icmp_seq=3 ttl=64 time=5.16 ms
+64 bytes from 192.168.0.1: icmp_seq=4 ttl=64 time=2.73 ms
+
+--- 192.168.0.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3072ms
+rtt min/avg/max/mdev = 2.727/3.655/5.164/0.969 ms
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=46.2 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=18.9 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=15.3 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=112 time=15.9 ms
+
+--- 8.8.8.8 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3079ms
+rtt min/avg/max/mdev = 15.316/24.058/46.187/12.846 ms
