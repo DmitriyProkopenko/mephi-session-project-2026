@@ -7,5 +7,5 @@
 
 **Результат - доступ восстановлен**
 
-
+## Скриншот
 <img width="1152" height="720" alt="mephi-nginx-screenshot" src="https://github.com/user-attachments/assets/8e3c45f1-df6d-4bbc-b148-8fd76462e19c" />
